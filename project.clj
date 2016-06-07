@@ -8,4 +8,6 @@
 
   :dependencies [[org.clojure/clojure "1.7.0"]
                  [com.stuartsierra/component "0.3.1"]
-                 [org.clojure/core.async "0.2.374"]])
+                 [org.clojure/core.async "0.2.374"]]
+
+  :source-paths ["src/clj"])
