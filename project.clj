@@ -1,6 +1,6 @@
 ;; Copyright © 2015, JUXT LTD.
 
-(defproject juxt/component-utils "0.0.1-SNAPSHOT"
+(defproject juxt/component-utils "0.0.2-SNAPSHOT"
   :description "Library of handy components"
   :url "http://github.com/juxt/component-utils"
   :license {:name "The MIT License"
